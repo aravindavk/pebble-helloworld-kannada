@@ -1,0 +1,24 @@
+{
+  "uuid": "0b2df906-b066-43fb-8b10-db23575a8084",
+  "shortName": "sumne",
+  "longName": "sumne",
+  "companyName": "aravindavk.in",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+        {"type": "font",
+         "name": "KN_FONT_20",
+         "file": "NotoSansKannada-Regular.ttf"},
+        {"type": "font",
+         "name": "KN_ASCII_FONT_30",
+         "file": "nudi.ttf"}        
+    ]
+  }
+}
